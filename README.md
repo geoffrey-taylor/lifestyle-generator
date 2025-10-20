@@ -6,4 +6,4 @@ Returns random lifestyle components for your new life
 - What to do
 - How to spend your time  
 
-All decided for you, quickly and easily
+All decided for you, quickly and easily.
